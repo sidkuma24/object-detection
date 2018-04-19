@@ -6,4 +6,4 @@ In this project we investigate serveral methods for Real-time object detection. 
 
 
 ### References
-1. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, [https://arxiv.org/abs/1506.01497](https://arxiv.org/abs/1506.01497)
+1. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, [[paper]](https://arxiv.org/abs/1506.01497)  [[code]](https://github.com/facebookresearch/Detectron).
